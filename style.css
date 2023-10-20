@@ -28,15 +28,14 @@
     justify-content: flex-start;
     align-items: center;
     color:rgb(255, 255, 255);
-    width:100px;
     height:140px;
     margin-top: 20px;
-    margin-left:-15px;
 }
 
 .sol1 {
     position:relative;
-    font-size: 80px;
+    font-size: 85px;
+    height:160px;
     color:aliceblue;
     margin-left: -25px;
     display: block;
@@ -47,14 +46,7 @@
     height:90px;
 }
 .sol2{
-    font-size: 40px;
-    color:aliceblue;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-}
-.sol4{
-    font-size: 40px;
+    font-size: 19px;
     color:aliceblue;
     display:flex;
     align-items:center;
